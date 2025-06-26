@@ -129,7 +129,7 @@ class _LoginPageState extends State<LoginPage> {
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(
               content: Text(
-                'Verification email sent! Please check your inbox.',
+                'Verification email sent! Please check your inbox or Spam folder.',
               ),
             ),
           );
