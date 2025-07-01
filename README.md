@@ -1,4 +1,4 @@
-# YOU-CAN-DO-THIS
+# YOU CAN DO THIS
 
 A Flutter-based To-Do List application that allows users to manage tasks with a user-friendly interface, Firebase authentication for secure access, and Hive for local data storage.
 
@@ -142,5 +142,5 @@ Contributions are welcome! To contribute:
 4. Push your branch and create a pull request.
 5. Ensure your changes align with the app’s design and functionality.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Repository
+https://github.com/AAMMMRRR/YOU-CAN-DO-THIS
